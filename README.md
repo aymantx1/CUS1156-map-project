@@ -54,4 +54,3 @@ When prompted, enter one of the sample filenames (e.g. `../cities1.txt`, adjusti
 ## Author
 
 Ayman Mohammed
-# CUS1156-map-project
